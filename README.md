@@ -37,7 +37,7 @@
 ### 🎉 Quirky Tidbits:
 - 😄 **Coding Mantra:** "I don’t always fix bugs, but when I do, I prefer to do it at 2 AM with a snack in hand!"
 - 🌈 **Hobbies:** Pretending to design UIs (spoiler: I’m still waiting for a ‘Designing for Dummies’ book).
-- 💡 **Dream Project:** An app that converts bug reports into stand-up comedy routines—because every bug deserves its moment of glory!
+- 💡 **Dream Project:** A docu-series where we follow a bug's journey from its inception to its untimely demise... because every bug has a story.
 
 ---
 
