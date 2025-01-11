@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Pushti, a passionate developer exploring MERN, TypeScript, and Next.js 🌟</h2>
+<h2 align="center">Yo, I’m Pushti! Coding, Chillin’, and Sippin’ Chai ☕😎</h2>
 
 <div align="center">
   <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="coding gif" />
@@ -6,33 +6,10 @@
 
 ---
 
-### 🌟 Who Am I?
-- 🛠 I build cool projects with **MERN**, **TypeScript**, and **Next.js**.
-- 🌍 I love combining creativity with technology to solve real-world problems.
-- 🧩 Fun fact: I sometimes debug code like I’m trying to find my way out of a maze—lots of twists, turns, and the occasional dead end! 😄
-
----
-
-### 🔧 My Tech Arsenal:
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-</div>
+### 🌟 Who Am I?  
+- 🛠 Your friendly neighborhood coder, turning “oops” moments into “aha” solutions.  
+- 🌍 I believe in simple code, good vibes, and the occasional midnight snack.  
+- 🧩 Fun fact: Half my brain writes code, the other half writes “console.log(‘why isn’t this working?!’)” 🤓  
 
 ---
 
@@ -58,14 +35,14 @@
 ---
 
 ### 🎉 Quirky Tidbits:
-- 😄 **Coding Mantra:** “I don’t always fix bugs, but when I do, I prefer to do it at 2 AM with a snack!”
-- 🌈 **Hobbies:** I enjoy exploring new frameworks and pretending to be a UI designer (spoiler: I’m not great at it!).
-- 💡 **Dream Project:** Building an app that translates code comments into memes—because why not add some humor to the codebase?
+- 😄 **Coding Mantra:** "I don’t always fix bugs, but when I do, I prefer to do it at 2 AM with a snack in hand!"
+- 🌈 **Hobbies:** Pretending to design UIs (spoiler: I’m still waiting for a ‘Designing for Dummies’ book).
+- 💡 **Dream Project:** An app that converts bug reports into stand-up comedy routines—because every bug deserves its moment of glory!
 
 ---
 
 ### 🔥 This is Me When...
-I’m coding and the world around me is on fire, but I’m still focused on that one pesky bug! 🔥💻
+I’m knee-deep in code and the world is falling apart, but I’m just focused on that one little bug. Code > chaos! 🔥💻
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="200" alt="this is me when" />
@@ -73,11 +50,5 @@ I’m coding and the world around me is on fire, but I’m still focused on that
 
 ---
 
-### 🐍 Snake Animation (Because it's cool):
-<div align="center">
-  ![Snake animation](https://github.com/pushti-sonawala/pushti-sonawala/blob/output/snake.svg)
-</div>
-
----
-
-Feel free to reach out if you have any questions or just want to chat about tech! 🚀
+### 🎉 Call Me Maybe?
+Feel free to reach out if you want to chat tech, share memes, or just send me a virtual high-five! 🚀😎
