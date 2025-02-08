@@ -1,4 +1,4 @@
-<h2 align="center">Yo, I’m Pushti! Coding, Chillin’, and Sippin’ Chai ☕😎</h2>
+<h2 align="center">Yo, I’m Pushti! Coding and Chillin’😎</h2>
 
 <div align="center">
   <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="coding gif" />
