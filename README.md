@@ -1,4 +1,4 @@
-<h2 align="center">Hello World😎</h2>
+<h2 align="center">Yo, I am Pushti😎</h2>
 
 <div align="center">
   <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="coding gif" />
