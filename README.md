@@ -113,32 +113,6 @@ const pushti = {
 ```
 
 ---
-
-### 🌟 Featured Projects
-
-<div align="center">
-
-[![ECOMINE](https://github-readme-stats.vercel.app/api/pin/?username=pushtisonawala&repo=eco-mine&theme=tokyonight)](https://eco-mine.vercel.app/)
-[![Chatterly](https://github-readme-stats.vercel.app/api/pin/?username=pushtisonawala&repo=chat-app&theme=tokyonight)](https://chat-app-3-vrk9.onrender.com)
-
-</div>
-
-#### 🚀 Project Highlights:
-
-**🌱 ECOMINE** - Carbon Footprint Calculator
-- Built a platform to calculate carbon footprint with tailored reduction suggestions
-- Enhanced UI/UX for better usability and navigation
-- Integrated chatbot for real-time guidance on carbon footprint calculation
-- **Winner**: Cleared internal round of Smart India Hackathon 2024
-
-**💬 Chatterly** - Real-time Chat Application  
-- Developed a social app for real-time chat and connections
-- Implemented WebSockets for instant messaging
-- Built group chat features and integrated Gemini AI for chat summaries
-- Ensures data privacy and secure user authentication
-
----
-
 ### 💭 Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
