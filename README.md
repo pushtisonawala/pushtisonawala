@@ -9,9 +9,12 @@
   <img src="https://img.shields.io/github/followers/pushtisonawala?label=Followers&style=social" alt="GitHub Badge" />
 </div>
 
+<br/>
+<br/>
+
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Girl Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 ### 🚀 About Me
 
@@ -21,6 +24,10 @@
 - 💬 Ask me about **full stack development, hackathons, and beginner journeys**
 - 🧠 Fun fact: Debugging at 2 AM with snacks is my kind of therapy 😄
 - 📫 How to reach me: **pushtisonawala786@gmail.com**
+
+<br/>
+<br/>
+<br/>
 
 ---
 
@@ -94,19 +101,19 @@ const pushti = {
 ### 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/pushtisonawala/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pushtisonawala&repo=your-project-1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/pushtisonawala/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pushtisonawala&repo=your-project-2&theme=tokyonight" />
-  </a>
+  
+🚧 **Coming Soon!** 🚧
+  
+*Featured projects will be showcased here as I build amazing things during my open-source journey!*
+
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Contribution Activity
+
 <div align="center">
-  <img src="https://github.com/pushtisonawala/pushtisonawala/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pushtisonawala&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 </div>
 
 ---
