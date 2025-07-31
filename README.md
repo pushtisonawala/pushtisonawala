@@ -18,10 +18,10 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently contributing to open-source under **GSSoC 2025**
-- 💼 Completed **full stack internships** and worked on real-world projects  
-- 🌱 Actively learning **DSA**, **backend**, and building scalable applications
-- 💬 Ask me about **full stack development, hackathons, and beginner journeys**
+- 🎓 **B.E Computer Science Engineering** student at DSCE Bangalore (CGPA: 9.15)
+- 🌱 Actively learning **DSA**, **System Design**, and **Advanced React Patterns**
+- 💼 Built multiple **client-facing platforms** websites
+- 💬 Ask me about **full stack development & hackathons**
 - 🧠 Fun fact: Debugging at 2 AM with snacks is my kind of therapy 😄
 - 📫 How to reach me: **pushtisonawala786@gmail.com**
 
@@ -35,27 +35,40 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,mongodb,git,github,vscode,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,supabase,git,github,vscode,postman,tailwind" />
   </a>
 </p>
 
-#### Languages
+#### Programming Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Frontend
+#### Frontend Technologies
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### Backend
+#### Backend Technologies
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-#### Database
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+#### Databases & Services
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### Development Tools
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### APIs & Communication
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4F4F4F?style=for-the-badge&logo=websocket&logoColor=white)
 
 ---
 
@@ -88,11 +101,14 @@
 ```javascript
 const pushti = {
     pronouns: "She/Her",
-    currentFocus: "Building scalable web applications",
-    learning: ["Data Structures & Algorithms", "System Design", "Cloud Technologies"],
+    education: "B.E Computer Science Engineering - DSCE Bangalore (CGPA: 9.15)",
+    currentRole: "Full Stack Developer Intern @ Quickgick",
+    currentFocus: "Building scalable web applications with modern tech stack",
+    learning: ["Data Structures & Algorithms", "System Design", "Advanced React Patterns"],
+    expertise: ["Full Stack Development", "RESTful APIs", "Real-time Applications"],
     openToCollaborate: ["Open Source Projects", "Web Development", "Hackathons"],
-    goals2025: "Contribute to 50+ open source projects and build 10+ full-stack applications",
-    funFact: "I debug better with coffee and lo-fi music! ☕🎵"
+    goals2025: "Contribute to 50+ open source projects and build impactful applications",
+    funFact: "I debug better with coffee and lo-fi music! ☕🎵",
 };
 ```
 
@@ -101,20 +117,25 @@ const pushti = {
 ### 🌟 Featured Projects
 
 <div align="center">
-  
-🚧 **Coming Soon!** 🚧
-  
-*Featured projects will be showcased here as I build amazing things during my open-source journey!*
+
+[![ECOMINE](https://github-readme-stats.vercel.app/api/pin/?username=pushtisonawala&repo=eco-mine&theme=tokyonight)](https://eco-mine.vercel.app/)
+[![Chatterly](https://github-readme-stats.vercel.app/api/pin/?username=pushtisonawala&repo=chat-app&theme=tokyonight)](https://chat-app-3-vrk9.onrender.com)
 
 </div>
 
----
+#### 🚀 Project Highlights:
 
-### 📈 Contribution Activity
+**🌱 ECOMINE** - Carbon Footprint Calculator
+- Built a platform to calculate carbon footprint with tailored reduction suggestions
+- Enhanced UI/UX for better usability and navigation
+- Integrated chatbot for real-time guidance on carbon footprint calculation
+- **Winner**: Cleared internal round of Smart India Hackathon 2024
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pushtisonawala&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
-</div>
+**💬 Chatterly** - Real-time Chat Application  
+- Developed a social app for real-time chat and connections
+- Implemented WebSockets for instant messaging
+- Built group chat features and integrated Gemini AI for chat summaries
+- Ensures data privacy and secure user authentication
 
 ---
 
