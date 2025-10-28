@@ -18,12 +18,11 @@
 
 ### 🚀 About Me
 
-- 🎓 **B.E Computer Science Engineering** student at DSCE Bangalore (CGPA: 9.15)
-- 🌱 Actively learning **DSA**, **System Design**, and **Advanced React Patterns**
-- 💼 Built multiple **client-facing platforms** websites
-- 💬 Ask me about **full stack development & hackathons**
-- 🧠 Fun fact: Debugging at 2 AM with snacks is my kind of therapy 😄
-- 📫 How to reach me: **pushtisonawala786@gmail.com**
+-  **B.E Computer Science Engineering** student at DSCE Bangalore (CGPA: 9.15)
+-  Actively learning **DSA**, **System Design**, and **Advanced React Patterns**
+-  Ask me about **full stack development & hackathons**
+-  Fun fact: Debugging at 2 AM with snacks is my kind of therapy 😄
+-  How to reach me: **pushtisonawala786@gmail.com**
 
 <br/>
 <br/>
