@@ -18,8 +18,8 @@
 
 ### 🚀 About Me
 
--  **B.E Computer Science Engineering** student at DSCE Bangalore (CGPA: 9.15)
--  Actively learning **DSA**, **System Design**, and **Advanced React Patterns**
+-  **B.E Computer Science Engineering** student at DSCE Bangalore (CGPA: 8.66)
+-  Actively learning **DSA**, **System Design**
 -  Ask me about **full stack development & hackathons**
 -  How to reach me: **pushtisonawala786@gmail.com**
 
