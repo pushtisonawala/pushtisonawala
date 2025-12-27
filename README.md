@@ -111,10 +111,8 @@
 ```javascript
 const pushti = {
     pronouns: "She/Her",
-    education: "B.E Computer Science Engineering - DSCE Bangalore (CGPA: 9.15)",
+    education: "B.E Computer Science Engineering - DSCE Bangalore (CGPA: 8.66)",
     currentFocus: "Building scalable web applications with modern tech stack",
-    learning: ["Data Structures & Algorithms", "System Design", "Advanced React Patterns"],
-    expertise: ["Full Stack Development", "RESTful APIs", "Real-time Applications"],
+    learning: ["Data Structures & Algorithms", "System Design"],
     openToCollaborate: ["Open Source Projects", "Web Development", "Hackathons"],
-    funFact: "I debug better with coffee and lo-fi music! ☕🎵",
 };
